@@ -10,6 +10,12 @@ This repository contains three progressive projects exploring drone control and 
 - **Project 2**: Single drone navigation with GPS waypoints and checkpoints
 - **Project 3**: Multi-agent drone exploration with autonomous path planning
 
+## Demo
+
+Multi-agent drone coordination system in action - showcasing autonomous deployment, path planning, and coordinated exploration.
+
+<video src="docs/Project3_Video.mov" width="100%" controls></video>
+
 ## Projects
 
 ### Project 1: Rocket Control System 🏆
@@ -70,8 +76,13 @@ Advanced multi-drone system with automatic takeoff, landing, and coordinated exp
 └── Project3.unitypackage
 ```
 
+## Acknowledgments
+
+Based on the [CosmicMiner](https://github.com/nshbae/CosmicMiner) framework by nshbae.
+
 ## License
 
 This repository is a personal archive of a university robotics project.
 The original starter code and this repository are licensed under the MIT License.
 See the LICENSE file for details.
+
