@@ -63,8 +63,10 @@ Advanced multi-drone system with automatic takeoff, landing, and coordinated exp
 1. Create project
 <img src="./docs/unity-1.png" width="50%">
 
-2. Project Settings - .NET Framework
+2. Project Settings: .NET Framework
 <img src="./docs/unity-2.png" width="50%">
+
+3. Import .unitypackage file
 
 ## Directory Structure
 
