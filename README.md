@@ -14,7 +14,9 @@ This repository contains three progressive projects exploring drone control and 
 
 Multi-agent drone coordination system in action - showcasing autonomous deployment, path planning, and coordinated exploration.
 
-<video src="docs/Project3_Video.mp4" width="100%" controls></video>
+<!-- <video src="docs/Project3_Video.mp4" width="100%" controls></video> -->
+
+<video src="https://github.com/user-attachments/assets/2d125e4c-4e3c-4837-84d9-c4f31afa85b4" width="100%" controls></video>
 
 ## Projects
 
