@@ -1,5 +1,10 @@
 # Multi-Agent Drone Exploration
 
+<a href="https://github.com/hoonably/multi-agent-drone-exploration"><img src="https://img.shields.io/static/v1?label=Project&message=GitHub&color=blue"></a>
+<a href="https://hoonably.github.io/multi-agent-drone-exploration/Project1_Report.pdf"><img src="https://img.shields.io/static/v1?label=Project1&message=PDF&color=red"></a>
+<a href="https://hoonably.github.io/multi-agent-drone-exploration/Project2_Report.pdf"><img src="https://img.shields.io/static/v1?label=Project2&message=PDF&color=red"></a>
+<a href="https://hoonably.github.io/multi-agent-drone-exploration"><img src="https://img.shields.io/static/v1?label=Project3&message=PDF&color=red"></a>
+
 Unity-based robotics simulation projects for CSE469: Introduction to Robotics course.
 
 ## Overview
@@ -21,6 +26,8 @@ Multi-agent drone coordination system in action - showcasing autonomous deployme
 ## Projects
 
 ### Project 1: Rocket Control System 🏆
+<a href="https://hoonably.github.io/multi-agent-drone-exploration/Project1_Report.pdf"><img src="https://img.shields.io/static/v1?label=Project1&message=PDF&color=red"></a>
+
 Arduino joystick-controlled rocket simulator with thrust and brake management.
 
 **🥇 1st Place Winner** - Best performance among all teams in the course.
@@ -32,7 +39,11 @@ Arduino joystick-controlled rocket simulator with thrust and brake management.
 - Servo-based thrust vectoring control
 - Brake system management
 
+---
+
 ### Project 2: GPS-based Drone Navigation
+<a href="https://hoonably.github.io/multi-agent-drone-exploration/Project2_Report.pdf"><img src="https://img.shields.io/static/v1?label=Project2&message=PDF&color=red"></a>
+
 Single drone autonomous navigation through GPS waypoints with checkpoint tracking.
 
 **Core Implementation**: [`DroneControlUnit.cs`](src/project2/DroneControlUnit.cs)
@@ -42,7 +53,11 @@ Single drone autonomous navigation through GPS waypoints with checkpoint trackin
 - Real-time velocity and position tracking
 - Automated brake distance calculation
 
+---
+
 ### Project 3: Multi-Agent Drone Coordination
+<a href="https://hoonably.github.io/multi-agent-drone-exploration"><img src="https://img.shields.io/static/v1?label=Project3&message=PDF&color=red"></a>
+
 Advanced multi-drone system with automatic takeoff, landing, and coordinated exploration.
 
 **Core Implementations**:
